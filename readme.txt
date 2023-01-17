@@ -4,8 +4,8 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=sagar.se
 Tags: less, wp less , lessify wordpress, less wordpress, less wp, lesscss wordpress
 Requires at least: 3.0
 Requires PHP: 5.4
-Tested up to: 5.5.1
-Stable tag: 1.0
+Tested up to: 6.1.1
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -49,8 +49,14 @@ To enqueue your less file you can simply do like this
 `wp_enqueue_style( 'less-style', get_stylesheet_directory_uri() . '/style.less' );`
 
 == Changelog ==
+
+= 1.1 =
+* Fixed: Instalation issue fixed for PHP verison 8.0
+* Code cleanup
+
 = 1.0 =
 * Initial release.
+
 
 == Upgrade Notice ==
 = 1.0 =

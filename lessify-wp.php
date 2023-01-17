@@ -3,7 +3,7 @@
 Plugin Name: Lessify Wordpress
 Plugin URI: http://magnigenie.com/using-less-with-wordpress/
 Description: Combine the power of wordpress with the power of Less and create something awesome. Just enqueue you less files in the traditional wordpress way and lessify will do the trick.
-Version: 1.0
+Version: 1.1
 Author: Nirmal Kumar Ram
 Author URI: http://magnigenie.com/
 License: GPLv2 or later
